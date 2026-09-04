@@ -1,6 +1,6 @@
 # GA1.1-Jasper11
 
-##  Add function
+##  Add functions
 This function provides as a result the sum of two values.
 ##  Subtract function
 This function provides as a result the difference between two values.
