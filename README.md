@@ -10,3 +10,5 @@ The multiply function return the product of the 2 numbers that are gives as inpu
 This function measures the distance between point zero and the number provided.
 ##  Square function
 The square function returns the square of the input
+##  Extensions add function - Call repeatedly add(...)
+This functions calls in a loop, the add function.
