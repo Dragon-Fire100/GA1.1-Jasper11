@@ -6,3 +6,5 @@ This function provides as a result the sum of two values.
 This function provides as a result the difference between two values.
 ##  Multiply function
 The multiply function return the product of the 2 numbers that are gives as inputs.
+##  Square function
+The square function returns the square of the input
